@@ -8,4 +8,4 @@ Este banco de dados armazenará todas as informações dos idosos de uma casa de
 - Responsáveis
 - Idosos
 
-O banco de dados foi criado utilizando o SQL Workbench.
+O banco de dados foi criado utilizando o mySQL Workbench.
